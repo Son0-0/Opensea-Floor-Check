@@ -1,4 +1,6 @@
 # Opensea floor price check
+![opensea_floor_check](https://user-images.githubusercontent.com/81317358/183262505-f22e492f-e2b0-4d30-8c55-8432337a2a83.jpg)
+
 ## Description
 - 디스코드 봇 명령어를 통해 바닥가 정보 수집
   - Opensea API를 활용하여 원하는 프로젝트 바닥가 측정
