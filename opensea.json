@@ -1,0 +1,14 @@
+{
+    "moonbirds": {
+        "name": "Moonbirds",
+        "url": "https://opensea.io/collection/proof-moonbirds",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/proof-moonbirds/stats",
+        "logo": "https://lh3.googleusercontent.com/H-eyNE1MwL5ohL-tCfn_Xa1Sl9M9B4612tLYeUlQubzt4ewhr4huJIR5OLuyO3Z5PpJFSwdm7rq-TikAh7f5eUw338A2cy6HRH75=s120"
+    },
+    "bayc": {
+        "name": "BoredApeYachtClub",
+        "url": "https://opensea.io/collection/boredapeyachtclub",
+        "apiUrl": "https://api.opensea.io/api/v1/collection/boredapeyachtclub/stats",
+        "logo": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120"
+    }
+}
